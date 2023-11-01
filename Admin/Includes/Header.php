@@ -18,28 +18,28 @@
     <meta http-equiv="refresh" content="10800"/>
     <meta name="description" content="">
     <meta name="author" content="Muhaddis">
-    <link rel="icon" type="image/png" sizes="16x16" href="plugins/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../plugins/images/favicon.png">
     <title><?php echo (defined('TITLE')) ? TITLE . " &lsaquo;" : "" ?> Admin Panel &mdash; My Own Blog</title>
     <!-- Bootstrap Core CSS -->
-    <link href="bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Menu CSS -->
-    <link href="plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.css" rel="stylesheet">
+    <link href="../plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.css" rel="stylesheet">
     <!-- toast CSS -->
-    <link href="plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
+    <link href="../plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
     <!-- morris CSS -->
-    <link href="plugins/bower_components/morrisjs/morris.css" rel="stylesheet">
+    <link href="../plugins/bower_components/morrisjs/morris.css" rel="stylesheet">
     <!-- chartist CSS -->
-    <link href="plugins/bower_components/chartist-js/dist/chartist.min.css" rel="stylesheet">
-    <link href="plugins/bower_components/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.css" rel="stylesheet">
+    <link href="../plugins/bower_components/chartist-js/dist/chartist.min.css" rel="stylesheet">
+    <link href="../plugins/bower_components/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.css" rel="stylesheet">
     <!-- animation CSS -->
-    <link href="css/animate.css" rel="stylesheet">
+    <link href="../css/animate.css" rel="stylesheet">
     <!-- Custom CSS -->
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/css/style.css" rel="stylesheet">
-    <link href="css/css/style2.css" rel="stylesheet">
-    <link href="css/css/style3.css" rel="stylesheet">
+    <link href="../css/style.css" rel="stylesheet">
+<!--    <link href="../css/css/style.css" rel="stylesheet">-->
+<!--    <link href="../css/css/style2.css" rel="stylesheet">-->
+<!--    <link href="../css/css/style3.css" rel="stylesheet">-->
     <!-- color CSS -->
-    <link href="css/colors/default.css" id="theme" rel="stylesheet">
+    <link href="../css/colors/default.css" id="theme" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
